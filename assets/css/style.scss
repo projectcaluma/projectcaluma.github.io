@@ -1,0 +1,18 @@
+---
+---
+
+$caluma-green: #2dc175;
+$caluma-blue: #3799ad;
+$header-bg-color: $caluma-green;
+$header-bg-color-secondary: $caluma-blue;
+$section-headings-color: $caluma-green;
+$body-link-color: $caluma-blue;
+@import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css?family=Oxygen:300;500");
+body {
+  font-family: "Oxygen", Helvetica, Arial, sans-serif;
+}
+.project-name {
+  font-size: 4rem;
+  font-weight: 300;
+}
