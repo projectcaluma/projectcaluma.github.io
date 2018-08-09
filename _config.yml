@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Caluma
 description: A collaborative form editing service
-show_downloads: true
+show_downloads: "true"
