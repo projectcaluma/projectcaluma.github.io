@@ -45,6 +45,6 @@ Caluma provides powerful administration tools. A complex form can be easily conf
 
 Caluma consists of two main parts: the Caluma Service and the Caluma Client.
 
-![Design of Caluma]({{ site.url }}/assets/images/vision.png)
+![Design of Caluma](/assets/images/vision.png)
 
 While the Caluma Service is generic the Client can be entirely custom with embeddable default components so it can fulfill your specific needs.
