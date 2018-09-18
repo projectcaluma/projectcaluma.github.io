@@ -2,26 +2,26 @@
 
 You have a process which is done manually or even on paper and you want to move into the digital world.
 
-Your process has the following characteristics:
+Your process has...
 
-* Centered around a form (e.g. application, certification, ...)
-* Different users involved
-* Specific flow how a form is processed
+* a form focus (e.g. application, certification, ...)
+* various involved users and roles
+* a specific workflow of processing and decision-making
 
-While Caluma can be used to model complex form based business processes, let's make a
-simple example.
+Let's make a simple example to illustrate the way Caluma works:
 
-1. End user submits application
-2. Case worker makes initial assessment
-3. Case worker forwards application to responsible specialists
+1. End user submits an application
+2. Clerk makes an initial assessment
+3. Clerk forwards the application to the responsible specialists
 4. Specialists provide feedback
-5. Case worker summarizes feedback and responds to end user
+5. After summarizing the feedback the clerk responds to the end user
 
 Caluma provides first class support for such use cases by providing a service that allows you to:
 
 * Dynamically create complex forms
 * Define fine-grained permissions on form
 * Implement declarative business process
+
 
 ## Why Caluma?
 
@@ -47,4 +47,4 @@ Caluma consists of two main parts: the Caluma Service and the Caluma Client.
 
 ![Design of Caluma](/assets/images/vision.png)
 
-While the Caluma Service is generic the Client can be entirely custom with embeddable default components so it can fulfill your specific needs.
+While the Caluma Service is universal, the Client can be entirely custom with embeddable default components so it can fulfill your specific needs.
