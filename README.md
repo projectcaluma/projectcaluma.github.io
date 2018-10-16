@@ -43,7 +43,7 @@ Caluma provides powerful administration tools. A complex form can be easily conf
 
 ### Flexible architecture
 
-Caluma consists of two main parts: the Caluma Service and the Caluma Client.
+Caluma provides an easy-to-integrate service. The client may be fully customizable with common shareable components.
 
 ![Design of Caluma](/assets/images/vision.png)
 
