@@ -19,8 +19,8 @@ Let's make a simple example to illustrate the way Caluma works:
 Caluma provides first class support for such use cases by providing a service that allows you to:
 
 * Dynamically create complex forms
-* Define fine-grained permissions on form
-* Implement declarative business process
+* Define fine-grained permissions
+* Implement declarative business processes
 
 
 ## Why Caluma?
