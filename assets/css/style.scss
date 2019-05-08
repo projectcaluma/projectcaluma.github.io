@@ -12,9 +12,9 @@ $body-link-color: $caluma-blue;
 body {
   font-family: "Oxygen", Helvetica, Arial, sans-serif;
 }
-.project-name {
-  font-size: 4rem;
-  font-weight: 300;
+.project-logo {
+  width: 100%;
+  max-width: 30rem;
 }
 .contact {
   margin-top: 3rem;
